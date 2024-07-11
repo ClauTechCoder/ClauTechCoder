@@ -1,4 +1,5 @@
-![image](https://github.com/ClauTechCoder/ClauTechCoder/assets/175111286/be5a8a0e-6d2e-42b7-ada8-f59488821da2)# 👋 Hey there, I'm ClauTechcoder!
+![image](https://github.com/ClauTechCoder/ClauTechCoder/assets/175111286/be5a8a0e-6d2e-42b7-ada8-f59488821da2)
+# 👋 Hey there, I'm ClauTechcoder!
 
 Welcome to my GitHub profile! I'm thrilled to have you here. Whether you're a fellow developer, a tech enthusiast, or just curious about what I do, I'm excited to share my projects and journey with you.
 
