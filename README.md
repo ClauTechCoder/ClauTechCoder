@@ -15,7 +15,7 @@ Soy ClauTechcoder, una estudiante apasionada por la tecnología y la ciberseguri
 - **Java Journeys** ☕: Todo sobre Java, incluyendo varios proyectos y experimentos mientras profundizo en este lenguaje tan versátil.
 
 ### Intereses
-- **Programación** 💻: Me encanta resolver problemas y crear cosas desde cero. Encontrarás muchos proyectos de código aquí mientras exploro diferentes aspectos del desarrollo de software.
+- **Programación** 💻: Me encanta resolver problemas y crear cosas desde cero. Encontrarás muchos proyectos en un futuro de código aquí mientras exploro diferentes aspectos del desarrollo de software.
 - **Tecnología** 🌐: Siempre me emocionan las últimas novedades en tecnología, desde nuevos lenguajes de programación hasta prácticas de desarrollo de software innovadoras.
 - **Ciberseguridad** 🔐: Estoy súper interesada en el campo de la ciberseguridad.
 
